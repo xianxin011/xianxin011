@@ -1,0 +1,5 @@
+- 👋 Hi, I’m xianxin\_ 🦁️
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning language called Golang
+- 💞️ I’m looking to collaborate on frontend enginer
+- 📫 How to reach me 1141453778@qq.com
