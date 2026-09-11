@@ -4,3 +4,4 @@
 - 💞️ I’m looking to collaborate on frontend enginer
 - 📫 How to reach me 1141453778@qq.com
 - 🤖 focus on AI
+- Python/JavaScript
