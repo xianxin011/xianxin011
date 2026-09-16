@@ -7,3 +7,4 @@
 - Python
 - Langchain/Langgraph/Langsmith
 - HTML/CSS/JavaScript
+- React/Vue
