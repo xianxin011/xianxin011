@@ -5,7 +5,7 @@
 - 📫 How to reach me 1141453778@qq.com
 - 🤖 focus on AI
 - Python
-- Langchain/Langgraph/Langsmith
+- Langchain/Langgraph/Langsmith/Langservice
 - HTML/CSS/JavaScript
 - React/Vue
 - NodeJs
