@@ -8,4 +8,4 @@
 - Langchain/Langgraph/Langsmith/Langservice
 - HTML/CSS/JavaScript
 - React/Vue
-- NodeJs
+- NodeJs/NestJs
