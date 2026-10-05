@@ -4,7 +4,8 @@
 - 💞️ I’m looking to collaborate on frontend enginer
 - 📫 How to reach me 1141453778@qq.com
 - 🤖 focus on AI
-- Python
+- Python stack
+  - steamlint
 - Langchain/Langgraph/Langsmith/Langservice
 - HTML/CSS/JavaScript
 - React/Vue
