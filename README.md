@@ -6,7 +6,7 @@
 - 🤖 focus on AI
 - Python stack
   - steamlint
-  - childprocess
+  - MultiProcessing
 - Langchain/Langgraph/Langsmith/Langservice
 - HTML/CSS/JavaScript
 - React/Vue
