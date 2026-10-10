@@ -7,6 +7,7 @@
 - Python stack
   - steamlint
   - MultiProcessing
+  - Threading
 - Langchain/Langgraph/Langsmith/Langservice
 - HTML/CSS/JavaScript
 - React/Vue
