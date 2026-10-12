@@ -5,9 +5,10 @@
 - 📫 How to reach me 1141453778@qq.com
 - 🤖 focus on AI Stack
 - Python stack
-  - steamlint
+  - Steamlint
   - MultiProcessing
   - Threading
+  - 
 - Langchain/Langgraph/Langsmith/Langservice
 - HTML/CSS/JavaScript
 - React/Vue
