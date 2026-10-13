@@ -8,7 +8,7 @@
   - Steamlint
   - MultiProcessing
   - Threading
-  - 
+  - Vibe Coding
 - Langchain/Langgraph/Langsmith/Langservice
 - HTML/CSS/JavaScript
 - React/Vue
