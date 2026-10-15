@@ -9,8 +9,9 @@
   - MultiProcessing
   - Threading
   - Vibe Coding
-  - ?
+  - 
 - Langchain/Langgraph/Langsmith/Langservice
-- HTML/CSS/JavaScript
-- React/Vue
-- NodeJs/NestJs
+- Web Stack
+  - HTML/CSS/JavaScript
+  - React/Vue
+  - NodeJs/NestJs
