@@ -9,7 +9,7 @@
   - MultiProcessing
   - Threading
   - Vibe Coding
-  - 
+    
 - Langchain/Langgraph/Langsmith/Langservice
 - Web Stack
   - HTML/CSS/JavaScript
